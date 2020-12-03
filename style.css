@@ -33,7 +33,7 @@ body{
     z-index: 2;
     background-color: white;
     min-height: 370px;
-    height: 55vh;
+    height: auto;
     min-width: 375px;
     width: 20%;
     margin: 20vh auto;
@@ -90,6 +90,7 @@ body{
     color: hsl(227, 10%, 46%);
     letter-spacing: 1px;
     margin-top: 0.7rem;
+    padding-bottom: 10px !important;
 }
 .thin-text{
     font-weight: 400;
